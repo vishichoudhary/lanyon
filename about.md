@@ -1,5 +1,6 @@
 ---
 layout: page
+url: about
 title: About
 ---
 
